@@ -1,0 +1,2 @@
+# lottery.github.io
+Лоттерея
